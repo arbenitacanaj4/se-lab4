@@ -1,0 +1,4 @@
+# Both stores eventually become empty
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

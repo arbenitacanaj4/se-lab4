@@ -1,0 +1,4 @@
+# One torpedo in each store
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
