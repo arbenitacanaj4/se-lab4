@@ -1,0 +1,5 @@
+# Primary never fails, secondary always fails
+GT4500,5,0,5,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
